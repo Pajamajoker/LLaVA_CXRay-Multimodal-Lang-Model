@@ -1,5 +1,5 @@
 
-# CXR-LLaVA Model Card
+# CXR-LLaVA Model Reseasrch PRoject 
 ### Multimodal Large Language Model Fine-Tuned for Chest X-ray Images
 
 CXR-LLaVA is an open-source, multimodal large language model specifically designed for generating radiologic reports from chest X-ray images.
