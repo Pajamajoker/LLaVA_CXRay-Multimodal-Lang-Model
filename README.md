@@ -1,8 +1,8 @@
 
-# CXR-LLaVA Model Reseasrch PRoject 
+# LLaVA CXRay Model Reseasrch PRoject 
 ### Multimodal Large Language Model Fine-Tuned for Chest X-ray Images
 
-CXR-LLaVA is an open-source, multimodal large language model specifically designed for generating radiologic reports from chest X-ray images.
+LLaVA CXRay is a multimodal large language model designed for generating radiology reports from chest X-ray images.
 
 You can test and Chest X rays with just these lines of code. 
 
@@ -19,7 +19,7 @@ response = model.write_radiologic_report(cxr_image)
 
 
 ### Install Dependencies
-Before you begin, make sure you have PyTorch installed. After confirming that PyTorch is installed, you can install the additional required dependencies. Run the following command in your terminal or command prompt:
+Make sure you have PyTorch installed. After that, you can install the additional required dependencies. Run the command in your terminal:
 ```python
 pip install transformers sentencepiece protobuf pillow
 ```
